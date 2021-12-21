@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Trucks Map</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_title">Trucks</string>
+    <string name="refresh">Refresh</string>
+    <string name="content_description_refresh">content_description_refresh</string>
+    <string name="search">Search</string>
+    <string name="content_description_search">content_description_search</string>
+    <string name="mapView">MapView</string>
+    <string name="content_description_map">content_description_map</string>
+    <string name="listView">ListView</string>
+    <string name="content_description_list">content_description_list</string>
+    <string name="search_hint">Search any Truck number</string>
+    <string name="kh">k/h</string>
+
+    <plurals name="numberOfDays">
+
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <plurals name="numberOfHours">
+
+        <item quantity="one">%d hr</item>
+        <item quantity="other">%d hrs</item>
+    </plurals>
+    <plurals name="numberOfMinutes">
+
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d mins</item>
+    </plurals>
+</resources>
